@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:gravity="center" 
+    android:orientation="horizontal"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:paddingTop="15dp" 
+	android:paddingBottom="15dp" 
+	android:id="@+id/linemore">
+
+   <TextView  
+       android:layout_width="fill_parent" 
+       android:layout_height="wrap_content"
+   	   android:text="@string/tv_more" 
+   	   android:textSize="18sp" 
+   	   android:gravity="center_horizontal"
+   	   android:focusable="false" 
+   	   android:clickable="false"
+   />
+</LinearLayout> 

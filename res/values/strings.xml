@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaobaoClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_tv_title">我的淘宝</string>
+    <string name="txt_reg_tv_title">账户注册</string>
+    <string name="txt_tv_username">账号</string>
+    <string name="txt_reg_tv_username">账\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020号</string>
+    <string name="txt_reg_tv_password">密\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020码</string>
+    <string name="txt_reg_tv_pwsure">密码确认</string>
+    <string name="txt_tv_password">密码</string>
+    <string name="txt_btn_login">登陆</string>
+    <string name="txt_btn_exit">退出</string>
+    <string name="txt_tv_copyright">©copyright</string>
+    <string name="txt_hint_username">账户号/邮箱</string>
+    <string name="txt_hint_passwd">登陆密码</string>
+    <string name="txt_tv_reg">注册</string>
+    <string name="txt_reg_tv_checkcode">验\u0020\u0020证\u0020\u0020码</string>
+    <string name="desc_img_product">产品图片</string>
+    <string name="txt_add_proc">添加商品</string>
+    <string name="tv_more">更多</string>
+    <string name="txt_tail">末尾</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="horizontal"
+    android:layout_height="100dip"
+    android:layout_marginTop="20dip"
+    android:id="@+id/addproduct" >
+	
+    <TextView
+        android:id="@+id/main_tv_proc_title_add"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="100dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:gravity="center_vertical"
+        android:text="@string/txt_add_proc"
+        android:textSize="20sp" />
+
+    <ImageView
+	        android:id="@+id/main_iv_proc_add"
+	        android:layout_width="wrap_content"
+	        android:layout_height="fill_parent"
+	        android:layout_gravity="center_vertical"
+	        android:src="@drawable/add"
+	        android:gravity="center"
+	        android:focusable="false"
+	        android:clickable="false"
+	        android:contentDescription="@string/desc_img_product"/>
+</LinearLayout>
